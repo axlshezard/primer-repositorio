@@ -1,0 +1,26 @@
+mod(21,6) 21%6  =  %,6 X 3 + 3= 21 EL RESTO DE LA DIV ES 3
+35/5V=7
+mod(63,7) 63%7 =  7 x 9 + 0= 63 EL RESTO ES 0
+106/2  = 53
+mod(215,8)  215%8  = 8 x 26 + 7 = 215 EL RESTO ES 7
+(3+4)/2 = 7/2 = 3.5
+3+4/2   = 4/2= 2 + 3 = 5
+(5+4/3)2  ((5+4)/3)^2 = (9/3)^2= 3^2 = 9
+(2)(3) -18    2*3 - 18 = 6 - 18 = 12
+-3+5>2    -3+5>2 = 2>2 = la desigualdad es -3+5>2 Falsa
+2>2 = falsa
+3+5 >= 8    3+5>8  8 >=8 Verdadera ocho es mayor o igual que 8
+y<y+1   y<y+1  =  verdadera
+(-7)(4/2) -7*4/2<0 = -7 * 2 -14-27/2 = verdadero-14 < 0
+
+A V B  A||B                   = verdadero
+A && !B                       = verdadero
+¬A V ¬B  !A||!B donde A=V B=F = verdadero
+!(A && B )		      = VERDADERO
+!A || B			      = FALSO
+!(21>10)		      = FALSO
+15==6&&2<8		      = FALSO
+10-2>9||5*4==21		      = VERDADERO
+!(6*3!=18)		      =
+7+2==9||21-11!=10 	      =
+
