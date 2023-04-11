@@ -21,6 +21,26 @@ A && !B                       = verdadero
 !(21>10)		      = FALSO
 15==6&&2<8		      = FALSO
 10-2>9||5*4==21		      = VERDADERO
-!(6*3!=18)		      =
-7+2==9||21-11!=10 	      =
+!(6*3!=18)		      =VERDADERO
+7+2==9||21-11!=10 	      =VERDADERO
+
+Realiza los siguientes algoritmos
+1. Verificar si un número es positivo y par.
+% =<0
+2. Verificar si un número es negativo o impar.
+>=0 || 
+3. Verificar si una cadena comienza con una letra específica y tiene una longitud mayor a 5 caracteres.
+4. Verificar si un número es divisible entre 3 y 5 al mismo tiempo. 
+mod 3 == 0 && mod 5 == 0
+5. Verificar si una persona es mayor de edad y tiene licencia de conducir.
+<18&&licencia
+6. Verificar si un número es mayor que 10 y menor que 20.
+>10<20
+
+
+
+
+
+
+
 
